@@ -1,9 +1,9 @@
 # short class ID (human readable)
-class = "CSCI 2390"
+class = "CSCI 1234"
 # list email addresses whose API keys get admin access
-admins = ["malte@cs.brown.edu"]
+admins = ["eleanor_eng@brown.edu"]
 # list email addresses who should receive notification emails
-staff = ["malte@cs.brown.edu"]
+staff = ["eleanor_eng@brown.edu"]
 # custom template directory
 template_dir = "templates"
 # custom resource directory (e.g., for images, CSS, JS)
@@ -13,4 +13,4 @@ secret = "SECRET"
 # whether to send emails (set to false for development)
 send_emails = true
 # whether to reset the db (set to false for production)
-prime = true
+prime = false
