@@ -1,0 +1,4 @@
+storages:
+  - name: mysql
+    plugin: diesel
+    url: mysql://root@localhost/myclass
